@@ -17,20 +17,32 @@
 本项目包含 4 个主题变体，满足不同使用场景和个人偏好：
 
 ### 1. transgender-png（标准版）
+
+![标准版](imgs/transgender.png)
+
 - 黑色文字，浅蓝高亮
 - 蓝粉白配色面板
 - 适合浅色桌面环境
 
 ### 2. transgender-white-png（白色边框版）
+
+![白色边框版](imgs/transgender-white.png)
+
 - 在标准版基础上添加白色边框
 - 更清晰的视觉层次
 
 ### 3. transgender-inverted-png（反转版）
+
+![反转版](imgs/transgender-inverted.png)
+
 - 白色文字，深色背景
 - 蓝粉白反转配色
 - 适合深色桌面环境
 
 ### 4. transgender-inverted-white-png（反转白色边框版）
+
+![反转白色边框版](imgs/transgender-inverted-white.png)
+
 - 反转配色 + 白色边框
 - 深色环境下的精致风格
 
